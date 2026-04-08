@@ -1,5 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Chick.png" alt="Chick" width="40" height="40" /> 우당탕탕 여니의 개발 농장
-
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Chick.png" alt="Chick" width="40" height="40" /> 
 <br/>
 
 <div align="left">
