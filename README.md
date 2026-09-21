@@ -6,22 +6,6 @@
   <br />
 </div>
 
-<!-- 깃애니멀 농장 -->
-<div align="center">
-  <a
-    href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yonheeee&utm_content=farm"
-    target="_blank"
-  >
-    <img
-      src="https://render.gitanimals.org/farms/yonheeee"
-      height="500px"
-      width="50%"
-      style="max-width: 500px; border: none; background: transparent"
-      alt="yonheeee's git animals farm"
-    />
-  </a>
-</div>
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img
