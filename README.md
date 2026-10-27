@@ -88,6 +88,34 @@
 
 <br />
 
+<h3 align="center">🏆 Awards 🏆</h3>
+
+<div align="center">
+
+| 수상 | 프로젝트 | 일자 |
+| :---: | :---: | :---: |
+| 우리은행 X SSAFY AI-금융소비자보호 아이디어 경진대회 **장려상** | AI 금융 자립 지원 서비스 | 2026.06.05 |
+| 2025 관광데이터 활용 공모전 **우수상** | [MoneyWay](https://github.com/yonheeee/moneyway-react) | 2025.11.20 |
+
+</div>
+
+<br />
+
+<h3 align="center">📜 Certifications 📜</h3>
+
+<div align="center">
+
+| 자격증 | 취득일 |
+| :---: | :---: |
+| 정보처리기사 | 2024.06.18 |
+| SQL 개발자 (SQLD) | 2024.12.13 |
+| 데이터분석 준전문가 (ADsP) | 2025.09.05 |
+| OPIc IM1 | 2026.03.29 |
+
+</div>
+
+<br />
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://blog.naver.com/nobrake0706" target="_blank">
